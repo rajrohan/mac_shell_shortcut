@@ -1,4 +1,4 @@
-# Executing Shell Scripts from the OS X Dock with multiple approach.
+# Executing Shell Scripts from the OS X Dock with multiple approaches.
 ### 1. Try with Automator
 You could create a Automator workflow with a single step - "Run Shell Script"
 
