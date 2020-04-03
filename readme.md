@@ -42,4 +42,4 @@ Available icons for notebook: jupyter_icon.icns and lab: jupyterlab_icon.icns
 
 
 Reference:
-### https://stackoverflow.com/questions/281372/executing-shell-scripts-from-the-os-x-dock
+#### https://stackoverflow.com/questions/281372/executing-shell-scripts-from-the-os-x-dock
