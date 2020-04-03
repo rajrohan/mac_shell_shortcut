@@ -33,8 +33,11 @@ Get the script "appify" from https://gist.github.com/mathiasbynens/674099
 source ./appify jupyter_shell.sh
 ```
 A Mac App will be created named "jupyter_shell.app"
+
 Right-click (Crl-Click) on the app. Select "Get Info"
+
 Grab the preferred Jupyter App Icon and drop it on top of the icon shown on the top-left of the opened Info window.
+
 Available icons for notebook: jupyter_icon.icns and lab: jupyterlab_icon.icns
 
 
